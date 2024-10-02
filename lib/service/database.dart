@@ -22,6 +22,6 @@ class DataBaseMethods {
 
   //DELETE
   Future deteleTask(String id)async{
-    return await FirebaseFirestore.instance.collection("Tarefa").doc(id);
+    return await FirebaseFirestore.instance.collection("Tarefa").doc(id).delete();
   }
 }
