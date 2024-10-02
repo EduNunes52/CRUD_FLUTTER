@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "520534496500",
+    "project_id": "faxinex-e80b8",
+    "storage_bucket": "faxinex-e80b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520534496500:android:ffc7ec9c9784254a62baa1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_n1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDUcH-UkgEvFF5R66m9sVc5Wr_Sdd8OtUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
